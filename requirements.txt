@@ -1,0 +1,8 @@
+git+https://github.com/huggingface/transformers
+torch
+notebook
+ipykernel
+sentencepiece 
+accelerate 
+einops
+# python3 -m ipykernel install --user --name=labor_messtechnik
